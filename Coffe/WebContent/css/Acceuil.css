@@ -1,0 +1,76 @@
+body
+{
+    background-color: #303030 ;
+}
+.jumbotron
+{
+    height: 550px;
+    width: 90%;
+    position: center ;
+    background-color: #333  ;
+    margin-top: -19px ;
+    margin-left: 5% ;  
+    color: white ;  
+    border-radius: 5%;
+}
+.container{
+	margin-top: 10%;
+}
+
+#h1
+{
+	color :#696;
+	font-style: italic;
+	letter-spacing: 3xp;
+}
+#italic{
+   color: #666666 ;
+}
+p.serif {
+    font-family: "Times New Roman", Times, serif;
+}
+a #italic{
+   font-family: "Times New Roman", Times, serif;
+}
+.btn{
+	width: 150px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.container-fluid{
+  margin-left: 20% ;
+  color: white ;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+#bs-example-navbar-collapse-1{
+	margin-left: 30%;
+}
+#navbar{
+	color: #333 ;
+}
+ul #ul{
+	margin-left: 10px ;
+    color: white ;
+    font-size: 20px;
+    padding-top: 36px;
+}
+#cover{
+	padding-top: 36px;
+	color: #696 ;
+    font-size: 30px;
+}
+#Authentification{
+	color: #696;
+}
+.form-horizontal{
+  margin-left : 25%;
+  margin-top: -4% ;
+  width: 50%
+}
+
+
+
