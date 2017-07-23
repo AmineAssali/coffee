@@ -39,7 +39,6 @@ public class AC_Login extends HttpServlet {
 		
 	    System.out.println(login+" "+mdp);
 	    System.out.println(login+" "+mdp);
-	    System.out.println(login+" "+mdp);
 		
 		if(Myconn.validate(login, mdp)){
 			request.getRequestDispatcher("Controlle?op=Commande").forward(request, response);

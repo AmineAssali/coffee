@@ -1,0 +1,59 @@
+body
+{
+    background-color: #303030 ;
+}
+.jumbotron
+{
+    height: 550px;
+    width: 90%;
+    position: center ;
+    background-color: #333  ;
+    margin-top: -19px ;
+    margin-left: 5% ;  
+    color: white ;  
+    border-radius: 5%;
+}
+#navbar{
+  color: #333 ;
+}
+.container-fluid{
+  margin-left: 20% ;
+  color: white ;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+#bs-example-navbar-collapse-1{
+  margin-left: 30%;
+}
+#navbar{
+  color: #333 ;
+}
+ul #ul{
+  margin-left: 10px ;
+  color: white ;
+  font-size: 20px;
+  padding-top: 36px;
+}
+#cover{
+  padding-top: 36px;
+  color: #696 ;
+  font-size: 30px;
+}
+.form-horizontal{
+  margin-left : 25%;
+  margin-top: 2% ;
+  width: 50%
+}
+#h1
+{
+  color :#696;
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
+  letter-spacing: 3px;
+}
+h1 #italic{
+   color:  #666666;
+}
+#table{
+	color : blue ;
+}

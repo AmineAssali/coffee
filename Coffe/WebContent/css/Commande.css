@@ -1,0 +1,78 @@
+body
+{
+    background-color: #303030 ;
+}
+#jumbotron1
+{
+    width: 90%;
+    position: center ;
+    background-color: #333  ;
+    margin-top: -19px ;
+    margin-left: 5% ;  
+    color: white ;  
+    border-radius: 5%;
+}
+.jumbotron2
+{
+	display: none ;
+    height: 80%;
+    width: 80%;
+    position: center ;
+    background-color: #404040 ;
+    margin-top: -2% ;
+    margin-left: 9% ;  
+    color: white ;  
+    border-radius: 2%;
+}
+
+.container-fluid{
+	margin-left: 20%  ;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+}
+#bs-example-navbar-collapse-1{
+    margin-left: 300px ;
+}
+ul #ul{
+    margin-left: 10px ;
+    color: white ;
+    font-size: 20px;
+    padding-top: 36px;
+}
+#cover{
+    padding-top: 36px;
+    color: #696 ;
+    font-size: 30px;
+}
+#img{
+	width: 150px;
+	height: 120px;
+}
+h2{
+    margin-left: -180px ;
+    margin-top: 0px ;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 1%;
+    color: #696;
+    font-size: 5% ;
+}
+#choix{
+    margin-left: 110px;
+}
+#list-caffe{
+    margin-left: 70px;
+}
+#list-petit-dejeuner{
+    margin-left: 350px;
+}
+#list-jus{
+    margin-left: 70px;
+}
+#list-croissant{
+    margin-left: 350px;
+}
+#list-the{
+    margin-left: 250px;
+}
